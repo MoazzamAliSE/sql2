@@ -1,0 +1,10 @@
+set SERVEROUTPUT on;
+EXECUTE pr_procedure1;
+
+exec PR_PROCEDURE1;
+
+
+BEGIN
+PR_PROCEDURE1;
+END;
+/
